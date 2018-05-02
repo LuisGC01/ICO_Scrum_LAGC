@@ -1,8 +1,3 @@
-<<<<<<< HEAD
 Mi nombre es: Jorge ALberto Lucio Santes
 
 
-carta 1.txt
-=======
-MI nombre es Luis Angel Garcia Cervantes
->>>>>>> bd0d85fb51aa5ea891ba6a77959bb2d2913db0df
